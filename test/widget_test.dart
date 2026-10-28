@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:streamed/app.dart';
 import 'package:streamed/data/datasources/mock_matches_datasource.dart';
 import 'package:streamed/data/repositories/matches_repository_impl.dart';
 import 'package:streamed/main.dart';
